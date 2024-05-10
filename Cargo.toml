@@ -11,7 +11,7 @@ include = [
 ]
 
 [dependencies]
-untrusted = { version = "0.7.0" }
+untrusted = { version = "9.5.0" }
 
 [dev-dependencies]
 serde = { version = "1.0.98", features = ["derive"] }
